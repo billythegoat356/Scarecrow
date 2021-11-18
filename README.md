@@ -1,117 +1,43 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/427535556/2610bacd-4545-4513-b36f-920431e03ea8", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">🕷️ Scarecrow 🕷️</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+Scarecrow is a tool written in Python3 allowing you to protect your Python3 scripts.
 <br>
-text
+It looks for processes with specific names to verify if the traffic is analysed by other processes, and if it does, it stops them.
+<br>
+If you want to add processes names to be stopped, make a pull request!
 <br><br><br>
 </strong>
-<img src="link" width="750", height="400">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/910932584001855528/unknown.png" width="750", height="400">
 </p>
 <br>
-
------
-
-### <p align="center">📋 Examples 📋</p>
-
-<br><br>
-`randomClass.randomFunc(randomArg)` -> `hello world!`
-<br><br>
-`randomClass2.randomFunc2(randomArg2)` -> `hey! how are you?`
-<br>
-
-OR
-
-<br><br>
-**Unobfuscated**:<br>
-```python3
-unobfuscated code
-```
-<br><br>
-**Obfuscated**:<br>
-```python3
-obfuscated code
-```
-<br><br><br>
-<p align="center">
-<img src="link" width="850", height="300">
-</p>
-<br>
-
------
-
-### <p align="center">📚 Documentation 📚</p>
-
-<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
-<br>
-Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
-</p>
- 
-<br><br>
-
-<p align="center">
-<img src="link", width="500", height="500">  
-</p>
-  
-<br><br>
-
-First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
-It will install you the necessary libraries for the program.  
-  
-name contains two parts:
-  - Client
-  - Server (hosted by me, don't touch it unless you are a developper)
-  
-**1: Client**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
-
-<br><br>
- 
-**2: Server**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
- 
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Doesn't need extra libraries</strong>
 <br>
-<strong>+ plus</strong>
-<br>
-<strong>+ plus</strong>
+<strong>+ Doesn't affect performance</strong>
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/427535556/2610bacd-4545-4513-b36f-920431e03ea8" width="250", height="250">
 </p>
 
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- Can be bypassed by renaming the processes</strong>
 <br><br>
 
 -----
@@ -123,8 +49,8 @@ text
 
 <br><br>
 * Time: 🟢
-* Complexity: 🟣
-* Service: 🔴
+* Complexity: 🟢
+* Service: 🔵
 <br><br>
 
 -----
@@ -134,37 +60,9 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Add more processes names to be analysed
 <br><br>
 
------
-
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
-
-<br><br>
-* 1
-* 2
-<br><br>
-
------
-  
-### <p align="center">🎨 Contributors 🎨</p>
-
-<br><br>
-* [user](link) | Part
-<br><br>
-  
------
-  
-### <p align="center">🪓 Deobfuscators 🪓</p>
-
-<br><br>
-* [title](link) by [user](link) | Language
-<br><br>
-  
 -----
 
 ### <p align="center">📌 Disclaimer 📌</p>
