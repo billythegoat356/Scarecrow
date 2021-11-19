@@ -22,7 +22,7 @@ class scare:
                 pass
 
     def crow():
-        forbidden = ['http', 'traffic', 'wireshark', 'fiddler']
+        forbidden = ['http', 'traffic', 'wireshark', 'fiddler', 'packet']
         return scare.fuck(names=forbidden)
     
 scare.crow()
