@@ -1,3 +1,8 @@
+# by billythegoat356
+
+# https://github.com/billythegoat356/Scarecrow
+
+
 from os import name, chdir
 from os.path import isfile
 from pystyle import Anime, Colorate, Colors, Center, System, Write
