@@ -13,24 +13,27 @@ code = """# Protected with Scarecrow
 # https://github.com/billythegoat356/Scarecrow
 
 
-from psutil import process_iter, NoSuchProcess, AccessDenied, ZombieProcess
+try:        
+    from psutil import process_iter, NoSuchProcess, AccessDenied, ZombieProcess
 
-class scare:
+    class scare:
 
-    def fuck(names):
-        for proc in process_iter():
-            try:
-                for name in names:
-                    if name.lower() in proc.name().lower():
-                        proc.kill()
-            except (NoSuchProcess, AccessDenied, ZombieProcess):
-                pass
+        def fuck(names):
+            for proc in process_iter():
+                try:
+                    for name in names:
+                        if name.lower() in proc.name().lower():
+                            proc.kill()
+                except (NoSuchProcess, AccessDenied, ZombieProcess):
+                    pass
 
-    def crow():
-        forbidden = ['http', 'traffic', 'wireshark', 'fiddler', 'packet']
-        return scare.fuck(names=forbidden)
-    
-scare.crow()
+        def crow():
+            forbidden = ['http', 'traffic', 'wireshark', 'fiddler', 'packet']
+            return scare.fuck(names=forbidden)
+        
+    scare.crow()
+except:
+    pass
 
 
 # by billythegoat356
