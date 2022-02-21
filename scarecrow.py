@@ -48,46 +48,46 @@ if name == 'nt':
 
 
 banner = """
-                                                   ///                                  
-                /                                +s+/                                   
-                +o/                            /s/                                      
-                 /oo/        /       +o        y                                        
-                    oo/      s+       y       s/                                        
-                      +o/     s/      s/     oo                                         
-                        +o/   oo      s+    oo      .....   +o+                         
-                          +o   y      s+    h      .. +shdNMMM+                         
-           ...  .....      /+o//s     +o    h     . hNMMMMMMMy                          
-         +sssyhhyy+ ...       h /y     h   +o    . mMMMMMMMMm                           
-         oMMMMMMMMMMd+..      s+ +o    y   h     /mMMMMMMMMN              /             
-          oNMMMMMMMMMMm/..     os+y    h  h     sMMMMMMMMMN .           +myo            
-            hMMMMMMMMMMMd .      +yh/  y s+    dMMMMMMMMMh .           sMo              
-            .+MMMMMMMMMMMMh .      so   oho++osyyyys++o/ .             hy               
-             . smMMMMMMMMMMmo++o++oo         +o+++/          +      /osy                
-              ..  /++syhhs+   oo                   +oo/    +s/      oh                  
-                   ...    +++o/                       /++o+/         +d/                
-yh/                     /s/                                           sy                
-/oy              /+//////                                          /oss/                
-  yo                                                             omys                   
-  /mso/                                                           M/                    
-   ++omo                                                          Nh/                   
-     /yy                           /o      d           /++yssy/  /oNmo                  
-       m+o/o                       oN+ . /oMd         +NNMMMMMNmdddNd+                  
-       ymysds      ss//            sMNNhdNMMMo.. o   omMMMMMMMMMMMmo                    
-        moDMdd    ohNMMMdy/       .oNMMMMMMMMMMsomMddNMMMMMMMMMMMmo                      
-          /NN/+dMMMMMMMMMMmhsyooyhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                        
-           dMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/                         
-             +shNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                          
-                omNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy                           
-                   NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                           
-                   mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                            
-                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm                            
-                   /MMMMMmdhmMmMMMMMMMMMMMMMMMMMNMdMh/oyhNMN                            
-                    MMNh+  . y oNMMMMMMMMMMMMms//+ /      od                            
-                   +ds/         sNNMMMMMMMMMy                                           
-                                 //sNMMMMMNo                                            
-                                    /dMMMMs                                             
-                                      sMMN                                              
-                                       hMs                                              
+                                                   ///                      
+                /                                +s+/                       
+                +o/                            /s/                          
+                 /oo/        /       +o        y                            
+                    oo/      s+       y       s/                            
+                      +o/     s/      s/     oo                             
+                        +o/   oo      s+    oo      .....   +o+             
+                          +o   y      s+    h      .. +shdNMMM+             
+           ...  .....      /+o//s     +o    h     . hNMMMMMMMy              
+         +sssyhhyy+ ...       h /y     h   +o    . mMMMMMMMMm               
+         oMMMMMMMMMMd+..      s+ +o    y   h     /mMMMMMMMMN              / 
+          oNMMMMMMMMMMm/..     os+y    h  h     sMMMMMMMMMN .           +myo
+            hMMMMMMMMMMMd .      +yh/  y s+    dMMMMMMMMMh .           sMo  
+            .+MMMMMMMMMMMMh .      so   oho++osyyyys++o/ .             hy   
+             . smMMMMMMMMMMmo++o++oo         +o+++/          +      /osy    
+              ..  /++syhhs+   oo                   +oo/    +s/      oh      
+                   ...    +++o/                       /++o+/         +d/    
+yh/                     /s/                                           sy    
+/oy              /+//////                                          /oss/    
+  yo                                                             omys       
+  /mso/                                                           M/        
+   ++omo                                                          Nh/       
+     /yy                           /o      d           /++yssy/  /oNmo      
+       m+o/o                       oN+ . /oMd         +NNMMMMMNmdddNd+      
+       ymysds      ss//            sMNNhdNMMMo.. o   omMMMMMMMMMMMmo        
+        moDMdd    ohNMMMdy/       .oNMMMMMMMMMMsomMddNMMMMMMMMMMMmo         
+          /NN/+dMMMMMMMMMMmhsyooyhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo            
+           dMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/             
+             +shNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/              
+                omNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy               
+                   NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/               
+                   mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                
+                   +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm                
+                   /MMMMMmdhmMmMMMMMMMMMMMMMMMMMNMdMh/oyhNMN                
+                    MMNh+  . y oNMMMMMMMMMMMMms//+ /      od                
+                   +ds/         sNNMMMMMMMMMy                               
+                                 //sNMMMMMNo                                
+                                    /dMMMMs                                 
+                                      sMMN                                  
+                                       hMs                                  
                                         m"""[1:]
 
 ascii = '''
