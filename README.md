@@ -16,9 +16,7 @@ Scarecrow is a tool written in Python3 allowing you to protect your Python3 scri
 It looks for processes with specific names to verify if the traffic is analysed by other processes, and if it does, it stops them.
 <br>
 If you want to add processes names to be stopped, make a pull request!
-<br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/892840615732195340/910932584001855528/unknown.png" width="750", height="400">
 </p>
 <br>
 
